@@ -1,0 +1,33 @@
+C:\Users\yoyo\Documents\Visual Studio 2010\Projects\collegeMs\collegeMs\bin\Debug\collegeMs.exe
+C:\Users\yoyo\Documents\Visual Studio 2010\Projects\collegeMs\collegeMs\bin\Debug\collegeMs.pdb
+C:\Users\yoyo\Documents\Visual Studio 2010\Projects\collegeMs\collegeMs\bin\Debug\collegeMs.xml
+C:\Users\yoyo\Documents\Visual Studio 2010\Projects\collegeMs\collegeMs\bin\Debug\Guna.UI2.dll
+C:\Users\yoyo\Documents\Visual Studio 2010\Projects\collegeMs\collegeMs\obj\x86\Debug\collegeMs.fees.resources
+C:\Users\yoyo\Documents\Visual Studio 2010\Projects\collegeMs\collegeMs\obj\x86\Debug\collegeMs.Login.resources
+C:\Users\yoyo\Documents\Visual Studio 2010\Projects\collegeMs\collegeMs\obj\x86\Debug\collegeMs.splash.resources
+C:\Users\yoyo\Documents\Visual Studio 2010\Projects\collegeMs\collegeMs\obj\x86\Debug\collegeMs.Resources.resources
+C:\Users\yoyo\Documents\Visual Studio 2010\Projects\collegeMs\collegeMs\obj\x86\Debug\collegeMs.students.resources
+C:\Users\yoyo\Documents\Visual Studio 2010\Projects\collegeMs\collegeMs\obj\x86\Debug\collegeMs.Teachers.resources
+C:\Users\yoyo\Documents\Visual Studio 2010\Projects\collegeMs\collegeMs\obj\x86\Debug\collegeMs.vbproj.GenerateResource.Cache
+C:\Users\yoyo\Documents\Visual Studio 2010\Projects\collegeMs\collegeMs\obj\x86\Debug\collegeMs.exe
+C:\Users\yoyo\Documents\Visual Studio 2010\Projects\collegeMs\collegeMs\obj\x86\Debug\collegeMs.xml
+C:\Users\yoyo\Documents\Visual Studio 2010\Projects\collegeMs\collegeMs\obj\x86\Debug\collegeMs.pdb
+C:\Users\yoyo\Documents\Visual Studio 2010\Projects\collegeMs\collegeMs\obj\x86\Debug\collegeMs.Departments.resources
+D:\VB\collegeMs\collegeMs\obj\x86\Debug\collegeMs.exe
+D:\VB\collegeMs\collegeMs\obj\x86\Debug\collegeMs.xml
+D:\VB\collegeMs\collegeMs\obj\x86\Debug\collegeMs.pdb
+D:\VB\collegeMs\collegeMs\bin\Debug\collegeMs.exe
+D:\VB\collegeMs\collegeMs\bin\Debug\collegeMs.pdb
+D:\VB\collegeMs\collegeMs\bin\Debug\collegeMs.xml
+D:\VB\collegeMs\collegeMs\obj\x86\Debug\collegeMs.Departments.resources
+D:\VB\collegeMs\collegeMs\obj\x86\Debug\collegeMs.fees.resources
+D:\VB\collegeMs\collegeMs\obj\x86\Debug\collegeMs.Login.resources
+D:\VB\collegeMs\collegeMs\obj\x86\Debug\collegeMs.splash.resources
+D:\VB\collegeMs\collegeMs\obj\x86\Debug\collegeMs.Resources.resources
+D:\VB\collegeMs\collegeMs\obj\x86\Debug\collegeMs.students.resources
+D:\VB\collegeMs\collegeMs\obj\x86\Debug\collegeMs.Teachers.resources
+D:\VB\collegeMs\collegeMs\obj\x86\Debug\collegeMs.vbproj.GenerateResource.Cache
+D:\VB\collegeMs\collegeMs\obj\x86\Debug\collegeMs.Dashboard.resources
+E:\camps\semesters\3rdSemester\others\vb\collegeMs\collegeMs\obj\x86\Debug\collegeMs.exe
+E:\camps\semesters\3rdSemester\others\vb\collegeMs\collegeMs\obj\x86\Debug\collegeMs.xml
+E:\camps\semesters\3rdSemester\others\vb\collegeMs\collegeMs\obj\x86\Debug\collegeMs.pdb
